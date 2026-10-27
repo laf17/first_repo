@@ -1,0 +1,12 @@
+---
+title: "first_repo"
+author: "Laney Flores (laf3326)"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+
+pen
+```
